@@ -1,10 +1,12 @@
-# SOLIDBankApp2
+# bankAppRepository
 
+В данном проекте AccountDAO и TransactionDAO реализоны с ипользованием базы данных.
 Программа выполняет основные банковские операции, такие как 
 1. Получение информации о всех счетах
 2. Создание счета
 3. Пополнение счета (debit)
 4. Снятие денег со счета (withdraw)
+   
 
 Пользователь может создать следующие счета:
   * текущий счет (CHECKING)
@@ -15,7 +17,7 @@
 
 1. Склонируйте репозиторий на свой локальный компьютер:
 ```
-  git clone https://github.com/akbopem/SOLIDBankApp.git
+  git clone https://github.com/muratakbope/bankAppRepository
 ```
 2. Откройте проект в вашей Java IDE (например, Intellij IDEA).
 3. Запустите проект.
